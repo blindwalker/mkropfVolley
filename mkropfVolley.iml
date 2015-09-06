@@ -3,7 +3,11 @@
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
+<<<<<<< HEAD:mkropfVolley.iml
         <option name="GRADLE_PROJECT_PATH" value=":mkropfVolley" />
+=======
+        <option name="GRADLE_PROJECT_PATH" value=":" />
+>>>>>>> b6494e8b2bc3155289c036378eb25e8e01a4ddec:mkropfvolley.iml
       </configuration>
     </facet>
     <facet type="android" name="Android">

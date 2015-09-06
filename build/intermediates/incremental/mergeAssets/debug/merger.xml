@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/martinkropf/AndroidStudioProjects/CurriculumVitae/mkropfvolley/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/martinkropf/AndroidStudioProjects/CurriculumVitae/mkropfvolley/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/martinkropf/AndroidStudioProjects/CurriculumVitae/mkropfVolley/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/martinkropf/AndroidStudioProjects/CurriculumVitae/mkropfVolley/src/debug/assets"/></dataSet></merger>
